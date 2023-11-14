@@ -1,0 +1,8 @@
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\CreateVehicle_KellyHumphrey\CreateVehicle_KellyHumphrey\obj\Debug\CreateVehicle_KellyHumphrey.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\CreateVehicle_KellyHumphrey\CreateVehicle_KellyHumphrey\obj\Debug\CreateVehicle_KellyHumphrey.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\CreateVehicle_KellyHumphrey\CreateVehicle_KellyHumphrey\obj\Debug\CreateVehicle_KellyHumphrey.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\CreateVehicle_KellyHumphrey\CreateVehicle_KellyHumphrey\bin\Debug\CreateVehicle_KellyHumphrey.exe.config
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\CreateVehicle_KellyHumphrey\CreateVehicle_KellyHumphrey\bin\Debug\CreateVehicle_KellyHumphrey.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\CreateVehicle_KellyHumphrey\CreateVehicle_KellyHumphrey\bin\Debug\CreateVehicle_KellyHumphrey.pdb
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\CreateVehicle_KellyHumphrey\CreateVehicle_KellyHumphrey\obj\Debug\CreateVehicle_KellyHumphrey.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\CreateVehicle_KellyHumphrey\CreateVehicle_KellyHumphrey\obj\Debug\CreateVehicle_KellyHumphrey.pdb

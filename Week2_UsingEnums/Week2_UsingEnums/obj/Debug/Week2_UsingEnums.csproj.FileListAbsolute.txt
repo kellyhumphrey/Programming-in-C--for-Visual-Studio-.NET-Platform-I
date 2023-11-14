@@ -1,0 +1,11 @@
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\bin\Debug\Week2_UsingEnums.exe.config
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\bin\Debug\Week2_UsingEnums.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\bin\Debug\Week2_UsingEnums.pdb
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\obj\Debug\Week2_UsingEnums.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\obj\Debug\Week2_UsingEnums.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\obj\Debug\Week2_UsingEnums.Main.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\obj\Debug\Week2_UsingEnums.Properties.Resources.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\obj\Debug\Week2_UsingEnums.csproj.GenerateResource.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\obj\Debug\Week2_UsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\obj\Debug\Week2_UsingEnums.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week2_UsingEnums\Week2_UsingEnums\obj\Debug\Week2_UsingEnums.pdb

@@ -1,0 +1,8 @@
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\HousingCosts\HousingCosts\bin\Debug\HousingCosts.exe.config
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\HousingCosts\HousingCosts\bin\Debug\HousingCosts.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\HousingCosts\HousingCosts\bin\Debug\HousingCosts.pdb
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\HousingCosts\HousingCosts\obj\Debug\HousingCosts.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\HousingCosts\HousingCosts\obj\Debug\HousingCosts.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\HousingCosts\HousingCosts\obj\Debug\HousingCosts.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\HousingCosts\HousingCosts\obj\Debug\HousingCosts.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\HousingCosts\HousingCosts\obj\Debug\HousingCosts.pdb

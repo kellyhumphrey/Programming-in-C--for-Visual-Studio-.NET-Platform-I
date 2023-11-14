@@ -1,0 +1,13 @@
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\obj\Debug\UserInterface_HumphreyKelly.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\obj\Debug\UserInterface_HumphreyKelly.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\obj\Debug\UserInterface_HumphreyKelly.Display.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\obj\Debug\UserInterface_HumphreyKelly.FormA.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\obj\Debug\UserInterface_HumphreyKelly.FormB.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\obj\Debug\UserInterface_HumphreyKelly.Properties.Resources.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\obj\Debug\UserInterface_HumphreyKelly.csproj.GenerateResource.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\obj\Debug\UserInterface_HumphreyKelly.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\bin\Debug\UserInterface_HumphreyKelly.exe.config
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\bin\Debug\UserInterface_HumphreyKelly.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\bin\Debug\UserInterface_HumphreyKelly.pdb
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\obj\Debug\UserInterface_HumphreyKelly.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\UserInterface_HumphreyKelly\UserInterface_HumphreyKelly\obj\Debug\UserInterface_HumphreyKelly.pdb

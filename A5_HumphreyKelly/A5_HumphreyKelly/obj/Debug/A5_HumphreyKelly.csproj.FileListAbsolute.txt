@@ -1,0 +1,8 @@
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\A5_HumphreyKelly\A5_HumphreyKelly\obj\Debug\A5_HumphreyKelly.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\A5_HumphreyKelly\A5_HumphreyKelly\obj\Debug\A5_HumphreyKelly.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\A5_HumphreyKelly\A5_HumphreyKelly\obj\Debug\A5_HumphreyKelly.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\A5_HumphreyKelly\A5_HumphreyKelly\bin\Debug\A5_HumphreyKelly.exe.config
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\A5_HumphreyKelly\A5_HumphreyKelly\bin\Debug\A5_HumphreyKelly.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\A5_HumphreyKelly\A5_HumphreyKelly\bin\Debug\A5_HumphreyKelly.pdb
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\A5_HumphreyKelly\A5_HumphreyKelly\obj\Debug\A5_HumphreyKelly.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\A5_HumphreyKelly\A5_HumphreyKelly\obj\Debug\A5_HumphreyKelly.pdb

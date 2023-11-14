@@ -1,0 +1,15 @@
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\bin\Debug\GatesCandyStore_HumphreyKelly.exe.config
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\bin\Debug\GatesCandyStore_HumphreyKelly.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\bin\Debug\GatesCandyStore_HumphreyKelly.pdb
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.Properties.Resources.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.csproj.GenerateResource.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.pdb
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.ChocolateForm.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.MainForm.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.GumForm.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.LollipopForm.resources
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\GatesCandyStore_HumphreyKelly\GatesCandyStore_HumphreyKelly\obj\Debug\GatesCandyStore_HumphreyKelly.ExperimentalForm.resources

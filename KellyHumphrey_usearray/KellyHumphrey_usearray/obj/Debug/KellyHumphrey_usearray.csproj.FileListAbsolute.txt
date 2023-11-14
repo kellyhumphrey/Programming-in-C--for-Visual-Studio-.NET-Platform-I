@@ -1,0 +1,8 @@
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\KellyHumphrey_usearray\KellyHumphrey_usearray\obj\Debug\KellyHumphrey_usearray.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\KellyHumphrey_usearray\KellyHumphrey_usearray\obj\Debug\KellyHumphrey_usearray.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\KellyHumphrey_usearray\KellyHumphrey_usearray\obj\Debug\KellyHumphrey_usearray.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\KellyHumphrey_usearray\KellyHumphrey_usearray\bin\Debug\KellyHumphrey_usearray.exe.config
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\KellyHumphrey_usearray\KellyHumphrey_usearray\bin\Debug\KellyHumphrey_usearray.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\KellyHumphrey_usearray\KellyHumphrey_usearray\bin\Debug\KellyHumphrey_usearray.pdb
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\KellyHumphrey_usearray\KellyHumphrey_usearray\obj\Debug\KellyHumphrey_usearray.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\KellyHumphrey_usearray\KellyHumphrey_usearray\obj\Debug\KellyHumphrey_usearray.pdb

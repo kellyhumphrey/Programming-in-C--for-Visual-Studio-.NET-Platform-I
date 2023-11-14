@@ -1,0 +1,8 @@
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week3CreateClass\Week3CreateClass\bin\Debug\Week3CreateClass.exe.config
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week3CreateClass\Week3CreateClass\bin\Debug\Week3CreateClass.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week3CreateClass\Week3CreateClass\bin\Debug\Week3CreateClass.pdb
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week3CreateClass\Week3CreateClass\obj\Debug\Week3UseClass.csproj.AssemblyReference.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week3CreateClass\Week3CreateClass\obj\Debug\Week3UseClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week3CreateClass\Week3CreateClass\obj\Debug\Week3UseClass.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week3CreateClass\Week3CreateClass\obj\Debug\Week3CreateClass.exe
+C:\Users\kelly\Downloads\C#\Visual Studio Projects\Week3CreateClass\Week3CreateClass\obj\Debug\Week3CreateClass.pdb
